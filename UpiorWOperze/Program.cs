@@ -11,9 +11,9 @@ namespace UpiorWOperze
             int maxWidth = Console.LargestWindowWidth;
             Labirynth board = new Labirynth();
 
-            SoundPlayer soundPlayer = new SoundPlayer();
-            soundPlayer.SoundLocation = "C:/Users/kryst/source/repos/UpiorWOperze/Teatr Muzyczny Roma - Upiór w Operze [Phantom Of The Opera].wav";
-            soundPlayer.PlayLooping();
+            /*SoundPlayer soundPlayer = new SoundPlayer();
+            soundPlayer.SoundLocation = "path";
+            soundPlayer.PlayLooping();*/
 
             Dialogue game = new Dialogue();
 

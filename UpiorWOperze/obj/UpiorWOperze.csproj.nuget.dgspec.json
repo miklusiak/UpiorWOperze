@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kryst\\source\\repos\\UpiorWOperze\\UpiorWOperze.csproj": {}
+    "C:\\Users\\kryst\\Documents\\GitHub\\UpiorWOperze\\UpiorWOperze\\UpiorWOperze.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kryst\\source\\repos\\UpiorWOperze\\UpiorWOperze.csproj": {
+    "C:\\Users\\kryst\\Documents\\GitHub\\UpiorWOperze\\UpiorWOperze\\UpiorWOperze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kryst\\source\\repos\\UpiorWOperze\\UpiorWOperze.csproj",
+        "projectUniqueName": "C:\\Users\\kryst\\Documents\\GitHub\\UpiorWOperze\\UpiorWOperze\\UpiorWOperze.csproj",
         "projectName": "UpiorWOperze",
-        "projectPath": "C:\\Users\\kryst\\source\\repos\\UpiorWOperze\\UpiorWOperze.csproj",
+        "projectPath": "C:\\Users\\kryst\\Documents\\GitHub\\UpiorWOperze\\UpiorWOperze\\UpiorWOperze.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kryst\\source\\repos\\UpiorWOperze\\obj\\",
+        "outputPath": "C:\\Users\\kryst\\Documents\\GitHub\\UpiorWOperze\\UpiorWOperze\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
